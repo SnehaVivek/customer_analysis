@@ -68,6 +68,8 @@ The cleaned dataset was imported into PostgreSQL for business analysis. SQL quer
 
 ### Dashboard Development
 
+<img width="1385" height="748" alt="image" src="https://github.com/user-attachments/assets/d61ba578-c500-4180-99b3-e8fe68e4c8d2" />
+
 An interactive Power BI dashboard was developed to visualize:
 * Total Customers
 * Average Purchase Amount
